@@ -1,1 +1,3 @@
 # HelloScala
+
+i love scala
